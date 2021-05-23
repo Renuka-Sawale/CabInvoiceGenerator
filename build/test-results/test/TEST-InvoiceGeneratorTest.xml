@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="InvoiceGeneratorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-05-23T19:48:28" hostname="ADMIN-PC" time="0.031">
+  <properties/>
+  <testcase name="givenDistanceAndTime_ShouldRetunTotalFare()" classname="InvoiceGeneratorTest" time="0.031"/>
+  <system-out><![CDATA[The total fare is 25.0
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
